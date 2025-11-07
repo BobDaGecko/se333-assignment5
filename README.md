@@ -71,7 +71,7 @@ open target/site/jacoco/index.html
 se333-assignment5/
 ├── .github/
 │   └── workflows/
-│       └── SE333_CI.yml       # GitHub Actions workflow
+│       └── main.yml       # GitHub Actions workflow
 ├── src/
 │   ├── main/java/org/example/
 │   │   ├── Amazon/            # Shopping cart system
