@@ -1,6 +1,6 @@
 # SE333 Assignment 5 - Unit, Mocking and Integration Testing
 
-[![SE333 CI](https://github.com/BobDaGecko/se333-assignment5/actions/workflows/SE333_CI.yml/badge.svg)](https://github.com/BobDaGecko/se333-assignment5/actions/workflows/SE333_CI.yml)
+[![SE333 CI]("https://github.com/BobDaGecko/se333-assignment5/actions/workflows/SE333_CI.yml/badge.svg")]("https://github.com/BobDaGecko/se333-assignment5/actions/workflows/SE333_CI.yml")
 
 **NOTE:** Portions of this project were completed with assistance of generative AI. This includes compiling documentation and fixing configuration issues within the code base related to dependencies.
 
